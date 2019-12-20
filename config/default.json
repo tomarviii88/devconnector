@@ -1,0 +1,4 @@
+{
+  "mongoDB": "mongodb+srv://tomarviii88:Ritika123@devconnector-zlfcz.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecretjwt"
+}
